@@ -56,7 +56,7 @@ I'd appreciate it to mention the use of this code somewhere if you use it in an 
 
 # License
 
-**IIViewDeckController** published under the MIT license:
+**IIPopoverStatusItem** published under the MIT license:
 
 *Copyright (C) 2012, Tom Adriaenssen*
 
